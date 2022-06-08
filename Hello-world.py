@@ -16,4 +16,4 @@ print("degisiklik yaptim")
 
 
 
-print("degisiklik")
+print("degisiklik yaptim")
