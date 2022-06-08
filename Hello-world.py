@@ -13,3 +13,7 @@ print("This is my first ever jenkins webhook pipeline!!!")
 
 
 print("degisiklik yaptim")
+
+
+
+print("degisiklik")
