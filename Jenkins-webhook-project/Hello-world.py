@@ -16,4 +16,4 @@ print("degisiklik yaptim")
 
 
 
-print("degisiklik yaptim BAKALIM OLDU MU ? ")
+print("degisiklik yaptim")
