@@ -17,3 +17,10 @@ print("degisiklik yaptim")
 
 
 print("degisiklik yaptim")
+
+
+print("deneme bir iki uc bes")
+
+
+
+print("degisiklik yaptim BAKALIM OLDU MU ? ")
